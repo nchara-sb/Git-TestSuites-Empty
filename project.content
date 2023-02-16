@@ -3,8 +3,8 @@ Ecommerce\buy.xml
 Ecommerce\logout.xml
 Ecommerce\search.xml
 Sample-REST-Test-Suite_202\Simple-Login-Call.xml
-Sample-REST-Test-Suite_678\Integration-Test.xml
-Sample-REST-Test-Suite_678\DataDriven-REST-Test.xml
+Sample-REST-Test-Suite_678_2\Integration-Test.xml
+Sample-REST-Test-Suite_678_2\DataDriven-REST-Test.xml
 EcommerceVirt\%2Ftest.xml
 EcommerceVirt\buy.xml
 EcommerceVirt\login.xml
